@@ -1,7 +1,5 @@
 import {Request, Response} from 'express';
 
-import faker from faker;
-
 import pool from '../database'
 
 class EmployeeController {
